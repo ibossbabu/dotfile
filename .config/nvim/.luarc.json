@@ -1,0 +1,12 @@
+{
+    "diagnostics.globals": [
+        "vim",
+        "opts"
+    ],
+    "diagnostics.disable": [
+        "missing-fields",
+        "param-type-mismatch",
+        "undefined-field",
+        "undefined-doc-name"
+    ]
+}
